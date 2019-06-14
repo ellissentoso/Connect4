@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myfiles">
+        <file>GUI_Connect4.pro</file>
+    </qresource>
+</RCC>
